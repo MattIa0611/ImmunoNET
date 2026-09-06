@@ -1,0 +1,3 @@
+# ImmunoNet usa solo la libreria standard di Python 3.
+# Su Windows e' necessario il pacchetto windows-curses:
+# windows-curses; sys_platform == "win32"
