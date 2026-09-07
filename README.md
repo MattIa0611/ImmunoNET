@@ -1,4 +1,4 @@
-# ImmunoNet 🦠🛡️
+# ImmunoNet
 
 **An educational Intrusion Detection System (IDS) that treats network traffic like a living organism.**
 
